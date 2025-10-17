@@ -6,6 +6,12 @@ A demonstration project showcasing how to create and integrate custom native mod
 
 This project demonstrates creating a local Expo module that bridges native iOS (Swift) and Android (Kotlin) functionality to React Native. The `expo-audio-route` module detects and monitors audio output routing changes in real-time (headphones, Bluetooth, speaker, etc.).
 
+## 🎥 Video
+
+https://github.com/user-attachments/assets/d7f55e6b-df65-42fa-8b08-081aec8a7c02
+
+
+
 ## 🛠️ Technical Highlights
 
 ### Custom Native Module Development
