@@ -13,6 +13,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
+      "simulator": true,
+      "bundleIdentifier": "com.example.expo-custom-local-module-example",
       "supportsTablet": true
     },
     "android": {
